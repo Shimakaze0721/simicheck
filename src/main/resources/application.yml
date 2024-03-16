@@ -1,0 +1,9 @@
+server:
+  port:8080
+
+spring:
+  datasource:
+    driver-class-name:com.mysql.cj.jdbc.Driver
+    url:jdbc:mysql://localhost:3306/simi_check?serverTimezone=GMT%2b9
+    username:root
+    password:LoveLive!0722
